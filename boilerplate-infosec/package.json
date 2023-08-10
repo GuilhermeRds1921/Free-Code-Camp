@@ -3,7 +3,6 @@
 	"version": "0.0.1",
 	"description": "fcc backend boilerplate",
 	"main": "server.js",
-	"helmet": "3.21.3",
 	"scripts": {
 		"start": "node myApp.js"
 	},
